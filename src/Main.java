@@ -29,6 +29,18 @@ public class Main {
         System.out.println(myZoo.toString());
 
         System.out.println(lion);
+
+
+
+
+        Animal tiger = new Animal("aaaa", "tiger", 5, true);
+        Animal chat = new Animal("bbbbb", "chat", 5, true);
+        Animal chien = new Animal("cccc", "Lion", 5, true);
+for(int i =0 ,i<25 ,i++){
+    if (myZoo.addAnimal(new Animal()))
+        }
+
     }
+
 }
 
